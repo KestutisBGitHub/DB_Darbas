@@ -74,6 +74,7 @@ namespace DB_Darbas.BL
                 Role = "user",
 
 
+
             };
 
             return account;
