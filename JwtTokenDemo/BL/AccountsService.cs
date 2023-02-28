@@ -97,6 +97,7 @@ namespace DB_Darbas.BL
         public List<Account> GetAll()
         {
             return _context.Accounts.ToList();
+
         }
 
         public Account GetById(int id)
